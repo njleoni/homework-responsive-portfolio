@@ -1,0 +1,51 @@
+/* Styles for all HTML Views */
+body {
+  background-image: url(./newBackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Index.html styles */
+.index-img {
+  margin-right: 20px;
+  max-width: 400px;
+  float: left;
+}
+
+.card.index {
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+
+/* Portfolio image styles */
+.port-img {
+  height: 350px;
+  padding: 10px;
+  max-width: 350px;
+}
+
+.card.port {
+  margin: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+.container.port {
+  font-size: 20px;
+}
+
+p {
+  margin-left: 10px;
+}
+
+.row.port {
+  margin-bottom: 20px;
+}
+
+.card.contact {
+  margin: 50px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
