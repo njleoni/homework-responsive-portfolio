@@ -10,7 +10,7 @@ The CSS file is very minimal witht the use of bootstrap. The only CSS elements t
 
 ## URL
 
-https://njleoni.github.io/homework-responsive-portfolio/
+https://njleoni.github.io/homework-responsive-portfolio
 
 ## Screenshot
 
