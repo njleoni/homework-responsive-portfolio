@@ -3,7 +3,7 @@ body {
   background-image: url(./newBackground.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  background-repeat: repeat;
 }
 
 /* Adds margin, max width and float left to the image on the index page */
